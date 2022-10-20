@@ -69,3 +69,5 @@ sortsEl.addEventListener('click', () => {
     })
    render(ListEl, sorteed)
 })
+
+
